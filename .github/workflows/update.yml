@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    # 👈 Full history for pull/rebase
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -33,7 +35,9 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git checkout main
+          git pull origin main --rebase || true
           git add movies.json
           git commit -m "Auto update movies" || echo "No changes to commit"
-          git pull --rebase origin main || true
           git push origin main
