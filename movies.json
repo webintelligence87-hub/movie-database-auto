@@ -1,13 +1,1 @@
-# 🎬 Auto Movie Database (TMDb + GitHub Actions)
-
-This project automatically updates a JSON file (`movies.json`) every 24 hours with the latest **Cartoon and Hollywood movies** using **The Movie Database (TMDb) API**.
-
-The system runs automatically using **GitHub Actions**, so no manual work is needed.
-
----
-
-## ⚙️ How It Works
-
-1. The Python script `update_movies.py` fetches the latest movies from TMDb.
-2. GitHub Actions runs daily (every 24 hours) to update the `movies.json` file.
-3. Blogger or any website can fetch the JSON file directly using:
+[]
