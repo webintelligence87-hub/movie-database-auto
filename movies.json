@@ -1,1 +1,412 @@
-[]
+[
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      10751,
+      16,
+      35,
+      10770
+    ],
+    "id": 1522123,
+    "original_language": "en",
+    "original_title": "The Bob And Larry Movie",
+    "overview": "A prequel to the 1993 faith-based animated children's show \"VeggieTales\" starring Bob and Larry.",
+    "popularity": 0.0495,
+    "poster_path": null,
+    "release_date": "2028-07-22",
+    "title": "The Bob And Larry Movie",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AhsnZVhIyaRSEuUBPLvmyxMCMlu.jpg",
+    "genre_ids": [
+      10751,
+      10402,
+      12,
+      16
+    ],
+    "id": 748865,
+    "original_language": "en",
+    "original_title": "Oh, the Places You'll Go!",
+    "overview": "A globetrotting animated musical which follows a young adventurer as they journey the joys and heartaches, and the peaks and the valleys of life.",
+    "popularity": 1.2101,
+    "poster_path": "/rf0EFUEN4hV41FjaQsbaB274A3g.jpg",
+    "release_date": "2028-03-16",
+    "title": "Oh, the Places You'll Go!",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      16,
+      10751,
+      14,
+      35,
+      12
+    ],
+    "id": 1024604,
+    "original_language": "en",
+    "original_title": "Frozen III",
+    "overview": "In this new chapter, witness the wedding of the century in Arendelle as Queen Anna walks down the aisle and joins Elsa on a new magical journey filled with unknown challenges. And what's even more exciting: the royal family is about to welcome a mysterious new member!",
+    "popularity": 2.4537,
+    "poster_path": "/rrsICrv4IUvapyLrrz1a1LkSXqx.jpg",
+    "release_date": "2027-11-24",
+    "title": "Frozen III",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "id": 1569665,
+    "original_language": "en",
+    "original_title": "Grattachecca",
+    "overview": "Gio, and her big brother, Marco, live alone in a city they are yet to call home. Summer's scorching sun prompts Marco on a quest to make the heat bearable.",
+    "popularity": 0.0693,
+    "poster_path": null,
+    "release_date": "2027-10-01",
+    "title": "Grattachecca",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dYsXhu97sNCQbObZjq3awyrdoaf.jpg",
+    "genre_ids": [
+      28,
+      12,
+      16,
+      35,
+      10751
+    ],
+    "id": 1156621,
+    "original_language": "en",
+    "original_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem 2",
+    "overview": "Donnie, Raph, Leo, and Mikey are back for their next adventure with Master Splinter, the Mutants, April, and a new villain they have to face: The Shredder.",
+    "popularity": 2.6874,
+    "poster_path": "/vRb1mNbvriiaYUAsjACyVMP3GAG.jpg",
+    "release_date": "2027-09-17",
+    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem 2",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ozgB1gzShfpPdjAtOEvCurbvEN6.jpg",
+    "genre_ids": [
+      10751,
+      16
+    ],
+    "id": 1403836,
+    "original_language": "en",
+    "original_title": "Bluey: The Movie",
+    "overview": "Based on the TV series of the same name. Plot TBA.",
+    "popularity": 0.4767,
+    "poster_path": "/wUiL0OTK3EPRyQfdQkEU4Ma87V2.jpg",
+    "release_date": "2027-08-05",
+    "title": "Bluey: The Movie",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/moJRnabE13YGQRy5BPIdEOVMCb6.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      16
+    ],
+    "id": 1554353,
+    "original_language": "en",
+    "original_title": "The Simpsons Movie 2",
+    "overview": "The sequel to the 2007 film. Plot TBA.",
+    "popularity": 1.9122,
+    "poster_path": "/6bWJH0s0X2cTynececEJSnfbNn9.jpg",
+    "release_date": "2027-07-22",
+    "title": "The Simpsons Movie 2",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gWV0gdBuEqXTjCamMQ9b48TqY7f.jpg",
+    "genre_ids": [
+      12,
+      16,
+      35,
+      10751,
+      10402
+    ],
+    "id": 656618,
+    "original_language": "en",
+    "original_title": "High in the Clouds",
+    "overview": "After he accidentally sparked a revolution against Gretsch, the bossy diva-owl who has banned all music from his town, a teenage squirrel named Wirral embarks on an extraordinary journey to set music free.",
+    "popularity": 1.4448,
+    "poster_path": "/4BP4DUuj29HhOcybUCLbyu8YRZw.jpg",
+    "release_date": "2027-07-07",
+    "title": "High in the Clouds",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tgiuYuRg0vKh8OSjxbl1DzT9BfI.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      14
+    ],
+    "id": 421892,
+    "original_language": "en",
+    "original_title": "Shrek 5",
+    "overview": "The fifth film in the Shrek franchise. Plot TBA.",
+    "popularity": 5.7818,
+    "poster_path": "/aRntI6gNBMu4B6YozI7rxXRPyQo.jpg",
+    "release_date": "2027-06-30",
+    "title": "Shrek 5",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/etB2OT0nUknOAPZV7EgbEbt6HJh.jpg",
+    "genre_ids": [
+      10751,
+      16
+    ],
+    "id": 1497464,
+    "original_language": "en",
+    "original_title": "Gatto",
+    "overview": "After years of maneuvering the canal-ridden, superstitious city, a black cat named Nero begins to question whether he\u2019s lived the right lives. Indebted to a local feline mob boss, Nero finds himself in a quandary and is forced to forge a truly unexpected friendship that may finally lead him to his purpose\u2014unless Venice gets the better of him first.",
+    "popularity": 0.5799,
+    "poster_path": "/vEn6uXzabXazyIOUzmF6ZfqT5uL.jpg",
+    "release_date": "2027-06-16",
+    "title": "Gatto",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      16,
+      12,
+      10751
+    ],
+    "id": 1208917,
+    "original_language": "en",
+    "original_title": "Wings of Freedom",
+    "overview": "Home-loving eagle Salana is forced out of her jungle bird colony to join Pirro, an intrepid swift and member of the Animal Air Force. This unlikely duo embarks on an epic, high-flying adventure to stop a malevolent AI and save the world.",
+    "popularity": 1.4415,
+    "poster_path": null,
+    "release_date": "2027-04-07",
+    "title": "Wings of Freedom",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vt7jvXDEx1nEiuV0Oo0qoph9Hnq.jpg",
+    "genre_ids": [
+      10751,
+      16
+    ],
+    "id": 1480503,
+    "original_language": "en",
+    "original_title": "CoComelon: The Movie",
+    "overview": "A CG-animated film inspired by the blockbuster children\u2019s show of the same name. Plot TBA.",
+    "popularity": 0.3478,
+    "poster_path": "/Hn4IS7h8ovnmAGevix07RAu9Cz.jpg",
+    "release_date": "2027-02-26",
+    "title": "CoComelon: The Movie",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2iTOXaKgmX0JR552KbqwuEhmPXC.jpg",
+    "genre_ids": [
+      16,
+      18,
+      10751,
+      10752,
+      36
+    ],
+    "id": 588520,
+    "original_language": "fr",
+    "original_title": "Les enfants de la libert\u00e9",
+    "overview": "New York, 1941, shortly before the US enters the war. Stevie Mayer is an intelligent twelve-year-old who\u2019s father suddenly disappears after being chased by two threatening men. Alone and unprotected, Stevie is left with a mysterious suitcase that everybody wants and nobody is who they claim to be. Thrown headlong into a mind-twisting plot, Stevie begins to suspect that his father is part of ring of Nazi spies. With the help of Miriam, a young Jewish refugee in his class, Stevie attempts to unravel the puzzle that leads to an explosive conclusion. It is a tale of non-stop adventure and a budding young love.",
+    "popularity": 0.2002,
+    "poster_path": "/2gwQ9LuE1Kr9JsmMR22lSRZBCyx.jpg",
+    "release_date": "2027-02-10",
+    "title": "Children of Liberty",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/u3E7FHkb6ROuD3uS5IDzsdq2uFI.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      12
+    ],
+    "id": 1384758,
+    "original_language": "en",
+    "original_title": "Ice Age: Boiling Point",
+    "overview": "A dinosaur-and-lava-filled madcap adventure that takes Manny, Sid, Diego, Ellie, Scrat and the rest of the herd to visit never-before-seen corners of the treacherous Lost World.",
+    "popularity": 1.755,
+    "poster_path": "/yyzETVERFGsf0ykL0vxwzpdIERK.jpg",
+    "release_date": "2027-02-04",
+    "title": "Ice Age: Boiling Point",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/umoNf7fz7A4N7F5N3FIbViZ9QmN.jpg",
+    "genre_ids": [
+      16,
+      10402,
+      10751
+    ],
+    "id": 1477299,
+    "original_language": "fr",
+    "original_title": "Marie-Rose et le Myst\u00e9rieux Voyage",
+    "overview": "Marie-Rose and the Mysterious Journey is an animated 3D feature film based on the iconic show of Chantal Goya.",
+    "popularity": 0.0363,
+    "poster_path": "/nfWcZOnEFhra57CdEtZTGpOPX30.jpg",
+    "release_date": "2026-12-31",
+    "title": "Marie-Rose and the Mysterious Journey",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      16,
+      12,
+      10751
+    ],
+    "id": 1571521,
+    "original_language": "en",
+    "original_title": "ViQueens",
+    "overview": "Fearless Viking girls Ingrid and Hedvig defy tradition to return a stowaway boy to China. Their journey spans icy fjords, Byzantine intrigue, and the fabled Silk Road, blending Viking grit with ancient Chinese wisdom, unexpected alliances, and a touch of magic.",
+    "popularity": 1.1256,
+    "poster_path": null,
+    "release_date": "2026-12-26",
+    "title": "ViQueens",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5ZCb6FaqXnsplFG4fDK8a3VFVz4.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      16
+    ],
+    "id": 1300926,
+    "original_language": "en",
+    "original_title": "The Angry Birds Movie 3",
+    "overview": "The third installment in The Angry Birds Movie franchise. Plot TBA.",
+    "popularity": 1.2689,
+    "poster_path": "/aHQ8JznSRh2sTy0QR14rkY77IR1.jpg",
+    "release_date": "2026-12-23",
+    "title": "The Angry Birds Movie 3",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      16,
+      10751,
+      35
+    ],
+    "id": 1284669,
+    "original_language": "en",
+    "original_title": "LarryBoy: A VeggieTales Movie",
+    "overview": "LarryBoy returns to go against a whole new threat, a diabolical brussel sprout, Hux.",
+    "popularity": 0.3032,
+    "poster_path": "/rMkF0slICDMlkBSbU6WaeeLfdj2.jpg",
+    "release_date": "2026-12-18",
+    "title": "LarryBoy: A VeggieTales Movie",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      35
+    ],
+    "id": 1519780,
+    "original_language": "en",
+    "original_title": "Diary of a Wimpy Kid: The Getaway",
+    "overview": "",
+    "popularity": 0.1865,
+    "poster_path": "/3HQHK0JwcR71vC792JQfQnvPlUH.jpg",
+    "release_date": "2026-12-04",
+    "title": "Diary of a Wimpy Kid: The Getaway",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      10751,
+      16,
+      14
+    ],
+    "id": 1538497,
+    "original_language": "en",
+    "original_title": "Hexed",
+    "overview": "An awkward teenage boy and his Type-A mom discover that what makes him unusual might be magical powers that will turn their lives and a secret world of magic upside down.",
+    "popularity": 1.7235,
+    "poster_path": "/6sRAaBTg0Dno1nMXGoQxjCDEKqA.jpg",
+    "release_date": "2026-11-25",
+    "title": "Hexed",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  }
+]
